@@ -54,7 +54,7 @@ const CartItem = props => {
         </div>
       </div>
       <div class="cart__item-price">
-        <b>{price} ₽</b>
+        <b>{price} UAH</b>
       </div>
       <div onClick={onRemove} class="cart__item-remove">
         <div class="button button--outline button--circle">
